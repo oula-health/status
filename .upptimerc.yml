@@ -9,9 +9,12 @@ sites:
     url: https://my.oulahealth.com
   - name: Oula API v1
     url: https://api.oulahealth.com/api/v1/ping
+    expectedStatusCodes:  
+    - 304
   - name: Oula API v2
     url: https://api.oulahealth.com/v2/
-    expectedStatusCodes: 401
+    expectedStatusCodes: 
+    - 401
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
