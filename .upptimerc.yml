@@ -8,13 +8,13 @@ sites:
   - name: Oula Patient Portal
     url: https://my.oulahealth.com
   - name: Oula API v1
-    url: https://api.oulahealth.com/api/v1/ping
+    url: $API_V1
     expectedStatusCodes:  
     - 304
     - 404
     - 200
   - name: Oula API v2
-    url: https://api.oulahealth.com/v2/
+    url: $API_V2
     expectedStatusCodes: 
     - 401
     
