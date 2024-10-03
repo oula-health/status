@@ -22,10 +22,10 @@ status-website:
   cname: status.oulahealth.com
   navbar:
     - title: Status
-      href: /status
+      href: /
     - title: Oula
       href: https://oulahealth.com
-  baseUrl: /status
+  #baseUrl: /status
   logoUrl: https://my.oulahealth.com/logo192.png
   name: Oula Health
   introTitle: Current Status for Oula Health Services
