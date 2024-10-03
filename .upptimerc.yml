@@ -30,7 +30,6 @@ status-website:
   name: Oula Health
   introTitle: Current Status for Oula Health Services
   introMessage: Oula is a modern maternity center that combines the best of obstetrics and midwifery care to deliver an evidence-based and personalized pregnancy experience.
-  theme: light
   favicon: https://my.oulahealth.com/favicon.ico
   themeUrl: https://status.oulahealth.com/my-custom-theme.css
 
