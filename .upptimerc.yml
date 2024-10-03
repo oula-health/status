@@ -22,7 +22,7 @@ status-website:
   #cname: demo.upptime.js.org
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Oula
       href: https://oulahealth.com
   baseUrl: /status
