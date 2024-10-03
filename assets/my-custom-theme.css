@@ -1,12 +1,12 @@
 :root {
-  --body-background-color: #001716;
-  --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
-  --nav-current-border-bottom-color: #1abc9c;
-  --card-border-color: #015450;
-  --down-border-left-color: #eb3b5a;
+  --body-background-color: #eedbc3;
+  --body-text-color: #1a3745;
+  --card-background-color: #b69f88;
+  --nav-background-color: #b69f88;
+  --nav-border-bottom-color: #b69f88;
+  --nav-current-border-bottom-color: #ba624a;
+  --card-border-color: #ba624a;
+  --down-border-left-color: #ba624a;
   --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
