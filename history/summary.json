@@ -60,19 +60,19 @@
     "url": "$API_V2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oula-api-v2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 1885,
-    "timeWeek": 383,
-    "timeMonth": 203,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 206,
+    "timeDay": 1078,
+    "timeWeek": 369,
+    "timeMonth": 206,
+    "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-10-11": 0
+      "2024-10-11": 5
     }
   }
 ]
