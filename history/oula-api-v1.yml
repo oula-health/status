@@ -1,7 +1,7 @@
 url: $API_V1
-status: down
-code: 405
-responseTime: 292
-lastUpdated: 2025-03-12T09:43:14.694Z
+status: up
+code: 404
+responseTime: 140
+lastUpdated: 2025-03-12T09:49:37.377Z
 startTime: 2024-10-03T14:44:52.239Z
 generator: Upptime <https://github.com/upptime/upptime>
