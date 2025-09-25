@@ -4,18 +4,19 @@
     "url": "https://oulahealth.com",
     "icon": "https://icons.duckduckgo.com/ip3/oulahealth.com.ico",
     "slug": "oula-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 279,
-    "timeDay": 327,
-    "timeWeek": 241,
+    "timeDay": 307,
+    "timeWeek": 246,
     "timeMonth": 256,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2025-09-25": 0,
       "2025-07-31": 121,
       "2025-07-28": 18
     }
