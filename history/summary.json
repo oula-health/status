@@ -47,11 +47,11 @@
     "url": "$API_V1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oula-api-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 218,
     "timeDay": 259,
@@ -59,7 +59,8 @@
     "timeMonth": 215,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-02-25": 46
+      "2026-02-25": 46,
+      "2026-06-02": 5
     }
   },
   {
@@ -67,9 +68,9 @@
     "url": "$API_V2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oula-api-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -81,7 +82,8 @@
     "dailyMinutesDown": {
       "2025-08-20": 51,
       "2025-10-20": 170,
-      "2026-02-25": 46
+      "2026-02-25": 46,
+      "2026-06-02": 0
     }
   }
 ]
